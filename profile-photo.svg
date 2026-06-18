@@ -1,0 +1,10 @@
+<svg width="640" height="640" viewBox="0 0 640 640" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+    <title id="title">Profile photo placeholder for Jared Allen Wenceslao</title>
+    <desc id="desc">A professional blue profile avatar placeholder with Jared Allen Wenceslao initials.</desc>
+    <rect width="640" height="640" rx="64" fill="#dbeafe"/>
+    <circle cx="320" cy="250" r="118" fill="#1d4ed8"/>
+    <path d="M126 560C143 459 224 394 320 394C416 394 497 459 514 560H126Z" fill="#1e40af"/>
+    <circle cx="320" cy="250" r="96" fill="#bfdbfe"/>
+    <path d="M168 560C196 493 253 452 320 452C387 452 444 493 472 560H168Z" fill="#2563eb"/>
+    <text x="320" y="575" text-anchor="middle" fill="#eff6ff" font-family="Arial, Helvetica, sans-serif" font-size="88" font-weight="700">JW</text>
+</svg>
